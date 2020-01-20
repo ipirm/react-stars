@@ -1,0 +1,14 @@
+.error-indicator {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+    color: orange;
+}
+
+.error-icon {
+    width: 100px;
+    height: 100px;
+    margin: auto auto 12px auto;
+}
